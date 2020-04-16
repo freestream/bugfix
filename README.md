@@ -1,6 +1,6 @@
 # Magento 1.9.3.6 Bugfixes
 
-This repo contains a variety of bug fixes for Magento Open Source version 1.9.3.6.
+This repo contains a variety of bug fixes for Magento Open Source version 1.9.4.4.
 At this moment, only version 1.9.3.6 is maintained. Some of these fixes might not work on different versions.
 
 To prevent confilicts with rewrites on existing projects, updated core files are moved into app/code/community/Mage and changed.
